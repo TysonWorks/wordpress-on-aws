@@ -1,6 +1,6 @@
 # Wordpress on AWS
 
-Highly avaiable, horizontally scalable Wordpress installation on AWS. 
+Highly available, horizontally scalable Wordpress installation on AWS. 
 
 ### Instal dependencies
 > npm install
